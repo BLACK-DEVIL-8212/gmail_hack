@@ -1,2 +1,4 @@
 # gmail_hack
-# my first hacking program it simply brutforce the gmail account but not that harmful fro basicly you can use it for pranks
+# my first hacking program it simply brutform the target by random password
+# it requires internet high connectivity to break into the network
+# it requirds high GPU speed to generate password 
